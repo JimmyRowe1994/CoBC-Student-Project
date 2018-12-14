@@ -1,0 +1,46 @@
+.container-header {
+
+	background: #3598DC;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+	padding-bottom: 1px;
+	text-align: center;
+	width: 100%;
+
+}
+
+.container {
+
+	padding: 0px;
+}
+
+.content-box {
+
+	background: #E8E8E8;
+	border-radius: 5px;
+	height: 200px;
+}
+
+.content-box-padding {
+
+	padding-left: 15px;
+	padding-top: 10px;
+}
+
+.jumbotron {
+
+	margin-top: 25px;
+
+}
+
+.reduce-margin {
+
+	margin-right: 0px;
+
+}
+
+.student-page-header {
+
+	margin-top: 25px;
+
+}

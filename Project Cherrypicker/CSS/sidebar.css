@@ -1,0 +1,39 @@
+button {
+
+	height: 50px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	width: 80%;
+}
+
+hr {
+
+	background: white;
+	width: 80%;
+
+}
+
+.menu-button {
+
+	/*Style Code*/
+
+}
+
+.search-bar {
+
+	border-radius: 5px;
+
+}
+
+.sidebar {
+
+	background: #2F353B;
+	color: white;
+	height: 100vh; /* "vh" stands for Viewport Height */
+	left: 0px;
+	padding-top: 10px;
+	position: absolute;
+	text-align: center;
+	top: 0%;
+
+}
